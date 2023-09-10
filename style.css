@@ -2,10 +2,11 @@
 @import "https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css";
 
 body {
+	background: #242424;
     font-family: 'VT323', monospace !important;
 	
     letter-spacing: 0.04em;
-    color: rgba(36, 36, 36);
+    color: rgba(255, 255, 255, 0.28);
     font-size: 24px;
     overflow-x: hidden;
 }
