@@ -5,7 +5,7 @@ body {
     font-family: 'VT323', monospace !important;
 	
     letter-spacing: 0.04em;
-    color: rgba(36, 36, 36, 0.28);
+    color: rgba(36, 36, 36);
     font-size: 24px;
     overflow-x: hidden;
 }
