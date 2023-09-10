@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+@import "https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css";
 
 body {
     font-family: 'VT323', monospace !important;
+	
+    letter-spacing: 0.04em;
+    color: rgba(255, 255, 255, 0.28);
+    font-size: 24px;
+    overflow-x: hidden;
 }
